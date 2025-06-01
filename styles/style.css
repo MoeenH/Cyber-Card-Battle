@@ -415,7 +415,7 @@ button[disabled=true] {
     color: rgba(0,0,0,0);
     transform: scaleX(0);
   }
-  51 % {
+  51% {
     background: none;
     color: black;
     transform: scaleX(0);
